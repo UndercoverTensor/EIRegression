@@ -8,8 +8,6 @@ A regression model for Machine Learning designed to perform **interpretable regr
 3. [Project Structure](#project-structure)
 4. [Running Experiments](#running-experiments)
 5. [Reproducing Results](#reproducing-results)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
