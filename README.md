@@ -1,6 +1,6 @@
 # Embedded Interpretable Regressor
 
-A regression model for Machine Learning designed to perform **interpretable regression** without compromising prediction accuracy. It leverages a combination of an **interpretable classifier** (Dempster-Shafer Classifier) and any compatible **regression model** (e.g., RandomForestRegressor, XGBRegressor, GradientBoostingRegressor) to predict continuous target variables.
+A regression model for Machine Learning designed to perform **interpretable regression** without compromising prediction accuracy. It leverages a combination of an **interpretable classifier** (Dempster-Shafer using Gradient Descent classifier) and any compatible **regression model** (e.g., RandomForestRegressor, XGBRegressor, GradientBoostingRegressor) to predict continuous target variables.
 
 ## Table of Contents
 1. [Installation](#installation)
