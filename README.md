@@ -201,25 +201,3 @@ To **reproduce the experiment results**, follow these steps:
      # RULE 1: If feature_X <= 5.0 AND feature_Y > 2.0 THEN ...
      ```
    - Additionally, check the `.json` summary files for metrics such as R², MAE, MSE, etc.
-
----
-
-## Contributing
-
-We welcome **pull requests** and **issue reporting**! Please ensure that new or updated functionality:
-
-- **Follows** existing style and code patterns.
-- **Includes** docstrings and comments where necessary.
-- **Passes** existing tests (if applicable).
-
-Feel free to fork the repository and submit your enhancements!
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to **use**, **modify**, and **distribute** this project in both commercial and non-commercial settings. See [LICENSE](LICENSE) for more details.
-
----
-
-**Enjoy** interpretable regression with **EmbeddedInterpreter**! For any questions or feedback, please open an **issue** or **pull request**. We appreciate your contributions.
