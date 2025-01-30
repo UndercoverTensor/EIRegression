@@ -1,0 +1,10 @@
+# Ignore all '.log' files
+*.log
+
+# Ignore the 'DS_Store'
+.DS_Store
+
+# Ignore '.venv' files containing secrets
+.venv
+
+
